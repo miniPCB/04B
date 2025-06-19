@@ -1,46 +1,27 @@
-# 04B – Transistor Amplifiers Collection
+# miniPCB
 
-The **Transistor Amplifiers Collection** is a set of educational circuit boards designed to support first- and second-semester electronics courses focused on analog circuit design and transistor operation.
+Welcome to **miniPCB** — a growing collection of small, standardized circuit boards designed for hands-on electronics education.
 
-## Included Circuits
+This repository contains:
+- 📷 Images of schematics and assembled boards
+- 🧾 A dedicated wiki page for each miniPCB design
+- 🎓 Resources for educators and students
 
-This collection includes five foundational amplifier configurations:
+## 📘 Documentation
 
-- Common Emitter  
-- Common Base  
-- Cascode  
-- Cascade  
-- Cascode-Cascade
+Each board has its own wiki page with:
+- Circuit descriptions
+- Schematic and board photos
+- Educational notes and usage tips
 
-Each circuit is implemented as a standalone **miniPCB™** with standardized layout, labeling, and interface features for easy integration into lab environments.
+👉 **Explore the full documentation here:**  
+[https://github.com/miniPCB/circuits/wiki](https://github.com/miniPCB/circuits/wiki)
 
-## Learning Objectives
+## 💡 Get Involved
 
-These boards are ideal for reinforcing key learning outcomes such as:
-
-- Small-signal modeling  
-- Biasing techniques  
-- Multistage amplification  
-- High-frequency performance enhancements
-
-## Use Cases
-
-The Transistor Amplifiers Collection is suitable for:
-
-- Reinforcement of lecture content  
-- Hands-on lab experimentation  
-- Homework circuit validation
-
-## Standard Pinout
-
-All boards in the collection follow a consistent 5-pin interface:
-
-1. **GND** – Ground reference  
-2. **V+** – Positive power supply  
-3. **V− (optional)** – Negative power supply (used in some circuits)  
-4. **Input** – Signal input  
-5. **Output** – Signal output
+Interested in contributing or requesting new designs?  
+Check out the [Contribution Guidelines](https://github.com/your-username/miniPCB/wiki/Contributing) or [open an issue](https://github.com/your-username/miniPCB/issues).
 
 ---
 
-> For educators: If you're interested in receiving free sample boards or integrating these into your curriculum, please reach out.
+Thanks for visiting the miniPCB project!
